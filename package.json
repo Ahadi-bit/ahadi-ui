@@ -1,0 +1,11 @@
+{
+  "name": "ahadi-ui",
+  "version": "0.0.1",
+  "description": "React UI Library using typescript",
+  "main": "index.js",
+  "author": "Jonathan Payares",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
